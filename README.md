@@ -1,0 +1,1 @@
+# https-github.com-to0b-esphome-truma_inetbox
